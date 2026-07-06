@@ -1,4 +1,4 @@
-# Comparing Ensemble and OLS Models for predicting Cosmetic Brand Interactions on Facebook
+# Comparing Ensemble and OLS Models for Predicting Cosmetic Brand Interactions on Facebook
 
 This project compares supervised machine learning techniques for predicting user engagement on social media content.
 
